@@ -1,4 +1,4 @@
 CMSC123
 =======
 
-Repo for projects for clsas
+Repo for projects for class!

@@ -1,0 +1,18 @@
+CMSC 123
+Nelson Auner
+
+Project Proposal
+
+1)
+Dataset: I plan to use a dataset of twitter data, the variables being:
+~Date of post
+~Name of author of post
+~content of post (a string, which can be analyzed for semantics, mood, etc with nltk toolkit)
+
+2)
+Data exploration:
+I intend to use mostly basic econometrics (linear regressions, etc) to associate the twitter data with some other conventional, more simple,  dataset, such as level of overall unemployment or price of gold. 
+The ideal outcome of the prototype would be a correlation between the types of sentiments expressed on twitter and one of the before-mentioned variables. 
+
+3)
+Final results would be a srengthened confirmation of the trends I would hopefully uncover in the data exploration trend, that is, a correlation or predictive power of twitter sentiments on the unemployment rate, etc.
